@@ -63,9 +63,9 @@ By using the **Gemini free tier**, this course can be completed at **zero cost**
 
 | Lesson | Title | Focus                                                                                            |
 |--------|-------|--------------------------------------------------------------------------------------------------|
-| 1 | [**Why MCP Breaks Old Enterprise AI Architectures**](https://decodingml.substack.com/p/ec61036e-f294-4c57-986d-dad71bbd4840) | **Architecting the solution** and understanding the MCP mindset.                                 |
+| 1 | [**Why MCP Breaks Old Enterprise AI Architectures**](https://decodingml.substack.com/p/why-mcp-breaks-old-enterprise-ai) | **Architecting the solution** and understanding the MCP mindset.                                 |
 | 2 | [**Build with MCP Like a Real Engineer**](https://decodingml.substack.com/p/build-with-mcp-like-a-real-engineer) | **Implementing the full PR Reviewer Assistant** workflow end-to-end.                             |
-| 3 | [**Getting Agent Architecture Right**]() | **Exploring other agent patterns and workflow architectures** for scalable PR review automation. |
+| 3 | [**Getting Agent Architecture Right**](https://decodingml.substack.com/p/getting-agent-architecture-right) | **Exploring other agent patterns and workflow architectures** for scalable PR review automation. |
 
 
 ## 🏗️ Repository Structure
