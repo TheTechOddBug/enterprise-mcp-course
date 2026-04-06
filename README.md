@@ -2,13 +2,13 @@
 <div align="center">
   <h1>Designing Enterprise MCP Systems</h1>
   <h3>Build, orchestrate, and scale intelligent workflows with the Model Context Protocol</h3>
-  <p class="tagline">Open-source project by <a href="https://decodingml.substack.com">Decoding AI</a></p>
+  <p class="tagline">Open-source project by <a href="https://decodingai.com">Decoding AI</a></p>
 </div>
 
 </br>
 
 <p align="center">
-  <a href="https://decodingml.substack.com/p/enterprise-mcp-series">
+  <a href="https://www.decodingai.com/t/designing-enterprise-mcp-systems">
     <img src="static/architecture.png" alt="Enterprise MCP Architecture" width="600">
   </a>
 </p>
@@ -63,9 +63,9 @@ By using the **Gemini free tier**, this course can be completed at **zero cost**
 
 | Lesson | Title | Focus                                                                                            |
 |--------|-------|--------------------------------------------------------------------------------------------------|
-| 1 | [**Why MCP Breaks Old Enterprise AI Architectures**](https://decodingml.substack.com/p/why-mcp-breaks-old-enterprise-ai) | **Architecting the solution** and understanding the MCP mindset.                                 |
-| 2 | [**Build with MCP Like a Real Engineer**](https://decodingml.substack.com/p/build-with-mcp-like-a-real-engineer) | **Implementing the full PR Reviewer Assistant** workflow end-to-end.                             |
-| 3 | [**Getting Agent Architecture Right**](https://decodingml.substack.com/p/getting-agent-architecture-right) | **Exploring other agent patterns and workflow architectures** for scalable PR review automation. |
+| 1 | [**Why MCP Breaks Old Enterprise AI Architectures**](https://www.decodingai.com/p/why-mcp-breaks-old-enterprise-ai) | **Architecting the solution** and understanding the MCP mindset.                                 |
+| 2 | [**Build with MCP Like a Real Engineer**](https://www.decodingai.com/p/build-with-mcp-like-a-real-engineer) | **Implementing the full PR Reviewer Assistant** workflow end-to-end.                             |
+| 3 | [**Getting Agent Architecture Right**](https://www.decodingai.com/p/getting-agent-architecture-right) | **Exploring other agent patterns and workflow architectures** for scalable PR review automation. |
 
 
 ## 🏗️ Repository Structure
